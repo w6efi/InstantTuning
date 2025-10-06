@@ -11,7 +11,7 @@ without emitting a signal"  (MILCOM 2021)
 
 Have included the MFJ106010 matchbox "personality" file.  These values measured the same across a couple of instances of the MFJ 16010 tuner.
 
-We need to add the code here too.   Working on cleaning up comments in the code.
+We need to add the code here too.   Working on cleaning up comments in the code.  **code is currently under revision, in repo InstantTuning-private**
 
 So far this has been presented to the Palo Alto Amateur Radio Association (PAARA) and the San Mateo Radio Club (SMRC).   I am very grateful for the interest and input I received, which has been incorporated into the current updated version.
 

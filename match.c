@@ -1,9 +1,11 @@
 /*
 
-match tuner_personality antenna
-
 Original author: WB3EFT Robert Melville
 Edits: W6EFI Constance Stillinger
+
+To compile the program: gcc -o match match.c -lm 
+To run the program: ./match tuner_personality_file antenna_file
+
 
 Flow:
   program enters loop waiting for a frequency selection from user

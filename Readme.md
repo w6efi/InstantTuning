@@ -13,7 +13,10 @@ Have included the MFJ106010 matchbox "personality" file.  These values measured 
 
 We need to add the code here too.   Working on cleaning up comments in the code.  **code is currently under revision, in repo InstantTuning-private**
 
-So far this has been presented to the Palo Alto Amateur Radio Association (PAARA) and the San Mateo Radio Club (SMRC).   I am very grateful for the interest and input I received, which has been incorporated into the current updated version.
+So far this has been presented to the Palo Alto Amateur Radio Association (PAARA), the San Mateo Radio Club (SMRC), and the North American DX Club (NADXCC).   I am very grateful for the interest and input I received, which has been incorporated into the current updated version.
+
+To compile the program: gcc -o match match.c -lm 
+To run the program: ./match tuner_personality_file antenna_file
 
 73 es GL de W6EFI
 

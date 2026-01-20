@@ -9,9 +9,9 @@ without emitting a signal"  (MILCOM 2021)
 
 **Other Notes**
 
-Have included the MFJ106010 matchbox "personality" file.  These values measured the same across a couple of instances of the MFJ 16010 tuner.
+Have included the MFJ106010 matchbox "personality" file.  These values measured the same across a couple of instances of the MFJ 16010 tuner.   Note that this version includes blocks for both S12 and S21 which are redundant.    Will fix this in the future.
 
-We need to add the code here too.   Working on cleaning up comments in the code.  **code is currently under revision, in repo InstantTuning-private**
+The code IS NOT OPTIMIZED.   Port to python is underway.
 
 So far this has been presented to the Palo Alto Amateur Radio Association (PAARA), the San Mateo Radio Club (SMRC), and the North American DX Club (NADXCC).   I am very grateful for the interest and input I received, which has been incorporated into the current updated version.
 
@@ -26,4 +26,4 @@ To run the program: ./match tuner_personality_file antenna_file
 &nbsp;
 &nbsp;
 
-_In memoriam WA2DKJ and K2JAO_
+_In memoriam WA2DKJ and K2JAO ... whatever band you guys are listening on now we hope you are proud_
